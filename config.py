@@ -1,0 +1,2 @@
+TEST_SECRET_KEY = "sk_test_HsBrA12QdlFUsP5TCH8OzU2O"
+TEST_PUBLISH_KEY = "pk_test_B3a2qfKTXzgN2styUqeyXsni"
